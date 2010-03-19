@@ -1,0 +1,10 @@
+-- Grails Roster Demo
+
+Students & Courses are the domain classes.
+
+The demo is and may stay incomplete.  Illustrating simple use of Service class in CourseService & CourseController.
+
+Enjoy.
+
+Gordon Dickens
+gordon@gordondickens.com
